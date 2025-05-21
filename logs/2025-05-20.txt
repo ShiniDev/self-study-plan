@@ -1,0 +1,3 @@
+Today is the day that I will get back to programming, I started out by mapping out a plan using Gemini
+Created a repo then proceeded with the study plan.
+Currently setting up a docker environment for PHP Web Development.
