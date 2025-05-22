@@ -30,7 +30,7 @@ I want to move away from physically demanding work into a mentally stimulating a
 * [ ] Master Composer for dependency management (PSR-4 autoloading).
 * [ ] Quick Review: OOP Principles (SOLID, common Design Patterns).
 * [ ] Set up Modern Local Development Environment:
-    * [ ] Install/Configure Docker (Target: PHP, Nginx/Apache, MySQL containers)
+    * [X] Install/Configure Docker (Target: PHP, Nginx/Apache, MySQL containers)
     * [ ] Alternative: XAMPP/MAMP/Laragon if Docker presents initial roadblocks.
 * [ ] Daily Git & GitHub Practice:
     * [ ] Branching, committing, pushing, PRs.
