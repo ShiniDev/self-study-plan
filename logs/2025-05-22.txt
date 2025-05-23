@@ -1,0 +1,3 @@
+My shini.dev website is down, so I was trying to set it up, still trying to set it up.
+Initially the base setup is easy, if I only wanted to set it up with just http I wouldve been finished.
+But currently I'm trying to set it up with HTTPS With LetsEncrypt and still hasnt managed to make it work.
