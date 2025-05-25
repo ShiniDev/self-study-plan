@@ -1,0 +1,1 @@
+Still trying to make https work on my website, will try now to implement it via a reverse proxy.
