@@ -1,0 +1,5 @@
+I got my website to work finally! I used caddy as my reverse proxy so I can have automatic https,
+basically it receives all traffic from my server, then sends it internally to my nginx container which is cool.
+
+Now I'm getting familliar with using composer inside a docker container, I didn't know that running composer update
+inside a docker container which has volume would also affect the host machine, which is cool too.
