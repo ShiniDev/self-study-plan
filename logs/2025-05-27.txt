@@ -1,0 +1,2 @@
+Added phpmyadmin to my local environment setup docker.
+Currently making a basic crud website with latest php features.
