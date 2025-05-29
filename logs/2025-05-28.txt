@@ -1,0 +1,1 @@
+Redid my local environment setup, making it more clear, and hiding it behind caddy so if needed to deploy its automatically https.
