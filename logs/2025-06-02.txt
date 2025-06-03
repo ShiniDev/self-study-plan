@@ -1,0 +1,1 @@
+Almost finished the crud review, spent time setting up redis stack and laravel with docker.
