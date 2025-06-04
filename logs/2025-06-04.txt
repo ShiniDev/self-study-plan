@@ -1,0 +1,3 @@
+I got the superapp backend (backride) running on my laptop, after that I was just following bootcamp laravel tutorial.
+Run to problems regarding permissions in containers for host side editing, tinker not working.
+
