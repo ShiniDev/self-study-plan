@@ -1,0 +1,3 @@
+I finished the laravel bootcamp tutorial today, I learned about Policies in Laravel.
+I also also learned regarding notifications, email sending, event and event listeners.
+I also learned about Mailpit.
