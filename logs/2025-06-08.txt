@@ -1,0 +1,2 @@
+Today I learned about facades and how Laravel uses facades,
+I spent my time trying to debug our backend.
