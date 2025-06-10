@@ -1,0 +1,4 @@
+Today I successfully implemented my first task on my remote backend job. It involved
+dabbling in Laravel Listeners and Service Providers.
+It also involved implementing firebase cloud messaging and firebase notifications.
+I also learned about PHP Attributes today.
