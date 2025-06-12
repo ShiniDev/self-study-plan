@@ -1,0 +1,2 @@
+Today I learned about, refunding transactions in paymongo.
+I also learned about query scoping in models in Laravel.
