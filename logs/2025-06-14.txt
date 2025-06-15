@@ -1,0 +1,1 @@
+Today I implemented a webhook for our refund process. I also used ngrok to test webhooks. I also created jobs. Today was mostly debugging.
