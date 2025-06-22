@@ -1,0 +1,2 @@
+Today, I started working on points system for our system. My learning and knowledge
+regarding jobs, how services should be used, and laravel ecosystem is improving.
