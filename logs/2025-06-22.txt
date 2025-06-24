@@ -1,0 +1,1 @@
+Today I learned about spatie media library, it's a cool and easy way to handle images.
