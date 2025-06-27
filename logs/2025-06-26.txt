@@ -1,0 +1,2 @@
+Today I demoed how my fare recalc tool works, and we explored several
+ways to improve developer experience.
