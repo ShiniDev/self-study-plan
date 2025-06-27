@@ -1,0 +1,1 @@
+Today I helped debug our server to figure out what caused the downtime.
