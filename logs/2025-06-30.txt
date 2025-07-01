@@ -1,0 +1,3 @@
+Today I fixed a merge conflict on my branch, I learned
+how to remove files on a merge conflict.
+Fixed bug on the refund process I made.
