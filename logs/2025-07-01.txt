@@ -1,0 +1,3 @@
+Today I'm trying to create a library for a visual scripting language in a game called,
+Indie500 made by AIA, it's a kart game which you program your own algorithm/AI for your kart.
+Which is pretty cool.
