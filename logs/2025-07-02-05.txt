@@ -1,0 +1,2 @@
+Since July 1, I've been working to make the graph library work better on the game.
+It's been working fine now the next step is to create a kart that is made by an AI.
